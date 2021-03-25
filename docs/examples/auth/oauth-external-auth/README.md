@@ -31,7 +31,7 @@ metadata:
 
 ### Example: OAuth2 Proxy + Kubernetes-Dashboard
 
-This example will show you how to deploy [`oauth2_proxy`](https://github.com/pusher/oauth2_proxy)
+This example will show you how to deploy [`oauth2-proxy`](https://github.com/oauth2-proxy/oauth2-proxy)
 into a Kubernetes cluster and use it to protect the Kubernetes Dashboard using github as oAuth2 provider
 
 #### Prepare
